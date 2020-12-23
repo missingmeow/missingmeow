@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+If you know, please let me know.
+
+### Stats
+
+[![MissingMeow's github stats](https://github-readme-stats.vercel.app/api?username=missingmeow&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=missingmeow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **missingmeow/missingmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
