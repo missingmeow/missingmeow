@@ -15,8 +15,10 @@ bash -- Linux操作系统（b 人名缩写 a Again sh shell）
 上翻命令： ⬆️ / Ctrl + P
 下翻命令： ⬇️ / Ctrl + N
 光标移动：Ctrl + B / Ctrl + F  ||  Ctrl + A / Ctrl + E
-删除字符：Backspace / Ctrl + H （前一字符） / Ctrl + D （后一字符） / Ctrl + U （删除行） / Ctrl + K （删除到行结尾）
+删除字符：Backspace / Ctrl + H （前一字符） / Ctrl + D （后一字符） / Ctrl + U （删除行） / Ctrl + K （删除到行结尾）/ Ctrl + W（删除当前单词）
 清屏： Ctrl + L / clear
+查找历史指令：Ctrl + R
+挂起命令：Ctrl + Z
 ```
 
 ### history
